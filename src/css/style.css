@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    padding: 2.5rem;
+    gap: 3.75rem;
+    background-color: var(--body-bg-color);
+    color: var(--text-color);
+    width: 1440px;
+    height: 1767px;
+}
+aside{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 21.75rem;
+    gap: 1.875rem;
+}
+aside div{
+    background-color: var(--bg-cards);
+    border: none;
+    border-radius: 1.25rem;
+}
+main{
+    flex-grow: 1;
+}

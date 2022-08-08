@@ -1,2 +1,3 @@
 # Portifolio
-Projeto para fazer um portifólio.
+
+Projeto para construir um portifólio.
