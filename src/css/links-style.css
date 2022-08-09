@@ -1,0 +1,30 @@
+.links{
+    width: 21.75rem;
+    height: 21.75rem;
+    padding-top: 1.875rem;
+    padding-left: 2.5rem;
+}
+.links ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+.links ul li{
+    display: flex;
+    gap: 1.25rem;
+    align-items: center;
+}
+.links ul li a{
+    text-decoration: none;
+    color: var(--text-color);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.813rem;
+    line-height: 1rem;
+}
+.links ul li img{
+    fill: var(--text-color);
+    width: 1.5rem;
+    height: 1.5rem;
+}

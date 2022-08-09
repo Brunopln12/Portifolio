@@ -1,0 +1,38 @@
+.tecnologies{
+    width: 21.75rem;
+    height: 13rem;
+    padding-top: 1.875rem;
+    padding-left: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+.tecnologies h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.563rem;
+}
+.tecnologies section{
+    padding-left: 0.625rem;
+    padding-right: 1.875rem;
+    display: flex;
+    gap: 0.938rem;
+    flex-wrap: wrap;
+}
+.tecnologies section p{
+    display: flex;
+    width: 5.375rem;
+    height: 1.5rem;
+    border-radius: 1.875rem;
+    background-color: var(--bg-techs);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 0.625rem;
+    line-height: 0.813rem;
+    text-align: center;
+    color: #000000;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
