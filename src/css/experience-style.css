@@ -1,0 +1,19 @@
+.experiencias{
+    display: flex;
+    flex-direction: column;
+    padding-top: 1.875rem;
+    padding-left: 1.25rem;
+    padding-bottom: 1.875rem;
+}
+.experiencias h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.563rem;
+}
+.experiencias p{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.875rem;
+    line-height: 1.125rem;
+}

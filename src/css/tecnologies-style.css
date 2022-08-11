@@ -13,14 +13,14 @@
     font-size: 1.25rem;
     line-height: 1.563rem;
 }
-.tecnologies section{
+.tecnologies div{
     padding-left: 0.625rem;
     padding-right: 1.875rem;
     display: flex;
     gap: 0.938rem;
     flex-wrap: wrap;
 }
-.tecnologies section p{
+.tecnologies div p{
     display: flex;
     width: 5.375rem;
     height: 1.5rem;
