@@ -1,11 +1,11 @@
 body{
     display: flex;
-    padding: 2.5rem;
-    gap: 3.75rem;
+    padding: 1.8rem;
+    gap: 2rem;
     background-color: var(--body-bg-color);
     color: var(--text-color);
-    width: 1440px;
-    height: 1767px;
+    width: 100%;
+    height: auto;
 }
 aside{
     display: flex;
@@ -20,7 +20,6 @@ aside section, main section{
     box-shadow: 0.125rem 0.125rem 0.125rem 0.063rem rgba(0, 0, 0, 0.2);
 }
 main{
-    flex-grow: 1;
     display: flex;
     flex-direction: column;
     gap: 1.875rem;

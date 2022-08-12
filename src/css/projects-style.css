@@ -1,0 +1,52 @@
+.projects{
+    display: flex;
+    gap: 30px;
+}
+.projects section{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap: 20px;
+}
+.projects span{
+    display: flex;
+    gap: 16px;
+}
+.projects section span img{
+    width: 20px;
+    height: 20px;
+}
+.projects section span p{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.projects section p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+.projects section div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.projects section div span img{
+    width: 20px;
+    height: 20px;
+}
+.projects section div span p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+.projects section div span span{
+    width: 15px;
+    height: 15px;
+    border: 2px solid var(--text-color);
+    background-color: #E7DE79;
+    border-radius: 50%;
+}
