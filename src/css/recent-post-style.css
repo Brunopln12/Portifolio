@@ -1,0 +1,10 @@
+.recent-post{
+    display: flex;
+    padding: 30px;
+}
+.recent-post p{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+}

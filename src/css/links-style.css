@@ -1,18 +1,17 @@
 .links{
-    width: 21.75rem;
-    height: 21.75rem;
-    padding-top: 1.875rem;
-    padding-left: 2.5rem;
+    width: 348px;
+    height: auto;
+    padding: 30px;
 }
 .links ul{
     list-style: none;
     display: flex;
     flex-direction: column;
-    gap: 1.25rem;
+    gap: 28px;
 }
 .links ul li{
     display: flex;
-    gap: 1.25rem;
+    gap: 28px;
     align-items: center;
 }
 .links ul li a{
@@ -20,11 +19,11 @@
     color: var(--text-color);
     font-style: normal;
     font-weight: 400;
-    font-size: 0.813rem;
-    line-height: 1rem;
+    font-size: 13px;
+    line-height: 16px;
 }
 .links ul li img{
     fill: var(--text-color);
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 24px;
+    height: 24px;
 }

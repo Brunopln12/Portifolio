@@ -1,27 +1,26 @@
 .profile{
     display: flex;
-    width: 21.75rem;
-    height: 18.25rem;
+    width: 348px;
+    height: auto;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 2rem;
+    padding: 32px;
 }
 .profile img{
-    border: 0.125rem solid #00FF00;
+    border: 2px solid #00FF00;
     border-radius: 50%;
 }
 .profile h4{
     font-style: normal;
     font-weight: 700;
-    font-size: 1.438rem;
-    line-height: 1.813rem;
-    text-shadow: 0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.25);
+    font-size: 23px;
+    line-height: 29px;
 }
 .profile p{
     font-style: normal;
     font-weight: 300;
-    font-size: 0.813rem;
-    line-height: 1rem;
+    font-size: 13px;
+    line-height: 16px;
 }
