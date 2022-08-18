@@ -10,8 +10,6 @@
     gap: 10px;
 }
 .post div img{
-    width: 128px;
-    height: 128px;
     border-radius: 50%;
 }
 .post div p:nth-child(1){
