@@ -24,3 +24,8 @@ main{
     flex-direction: column;
     gap: 30px;
 }
+@media (max-width: 1200px){
+    .projects{
+        flex-direction: column;
+    }
+}
