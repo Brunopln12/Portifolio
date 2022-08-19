@@ -38,6 +38,9 @@ main{
     main section{
         width: 348px;
     }
+    .post{
+        flex-direction: column;
+    }
     .post div img{
         width: 64px;
         height: 64px;
